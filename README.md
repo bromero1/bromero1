@@ -8,7 +8,7 @@
     <td width="50%" valign="top">
       <h3 align="center"> Ecomm</h3>
         <br/>
-        <a target="_blank" href="https://acassiaflowers.shop">
+        <a href="https://acassiaflowers.shop" target="_blank" >
             <img src="images/acassia.gif" width="100%" alt="Acassia Flowers" />
         </a>
         <br />       
@@ -16,14 +16,12 @@
           <strong>Javascript, Material UI & Strapi</strong>
         </p>        
     </td>
-    </tr>
     <!-- 
       Portfilo -->
-    <tr>
     <td width="50%" valign="top">
       <h3 align="center">My Site</h3>
         <br/>
-        <a target="_blank" href="https://bryanromero.dev">
+        <a href="https://bryanromero.dev" target="_blank" >
             <img src="images/portfolio.gif" width="100%" alt="Portfolio Image" />
         </a>
         <br />       
