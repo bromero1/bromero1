@@ -1,5 +1,5 @@
 ### Hi, I'm Bryan 👋
-
+<img width="100%" src="images/Circuit%20Board.webp" />
 
 <h1 align="center">Projects</h1>
 <table border-color="#66b2b2">
