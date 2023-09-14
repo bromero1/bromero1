@@ -1,5 +1,9 @@
 <img width="100%" src="images/Circuit%20Board.webp" />
-
+<!--
+### A little bit about me...
+- I'm learning 
+- 
+-->
 <h1 align="center">Projects</h1>
 <table border-color="#66b2b2">
   <tr>
